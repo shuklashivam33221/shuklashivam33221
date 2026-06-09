@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20NIT%20Kurukshetra%20%7C%20Branch%20Rank%201&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20NIT%20Kurukshetra&descAlignY=58&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Backend+Developer+%7C+NIT+Kurukshetra+%F0%9F%8F%9B%EF%B8%8F;Branch+Rank+1+%7C+CGPA+9.603+%2F+10+%F0%9F%8F%86;Open+Source+Contributor+%E2%86%92+AutoCannon+8.4k%2B+%E2%AD%90;LeetCode+Knight+%7C+Top+2%25+Globally+%E2%9A%94%EF%B8%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Software+Developer+%7C+NIT+Kurukshetra+%F0%9F%8F%9B%EF%B8%8F;Branch+Rank+1+%7C+CGPA+9.603+%2F+10+%F0%9F%8F%86;Open+Source+Contributor+%E2%86%92+AutoCannon+8.4k%2B+%E2%AD%90;LeetCode+Knight+%7C+Top+2%25+Globally+%E2%9A%94%EF%B8%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,10 +18,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🏛️ &nbsp; **NIT Kurukshetra** — B.Tech IT | **Branch Rank #1** | CGPA **9.603 / 10**
+- 🏛️ &nbsp; **NIT Kurukshetra** — B.Tech Information Technology | **Branch Rank #1** | CGPA **9.603 / 10**
 - 🌍 &nbsp; Open Source contributor → **AutoCannon** (8.4k+ ⭐) & published **depsight** on npm
 - ⚔️ &nbsp; **LeetCode Knight** — Rating **1867** | **500+ problems** | Top **2% globally**
-- 🔭 &nbsp; Currently exploring **System Design** and **High-Performance Backend Systems**
+- 🔭 &nbsp; Currently exploring **System Design** and **High-Performance Systems**
 - ⚡ &nbsp; Fun fact: I reduced query time by **60%** using MongoDB Aggregation Pipelines 😄
 
 ---
