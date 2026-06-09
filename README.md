@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20NIT%20Kurukshetra%20%7C%20Branch%20Rank%201&descAlignY=58&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=I'm+Shivam+Shukla+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Developer+%7C+Problem+Solver+%F0%9F%9A%80;DSA+Enthusiast+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;Building+Scalable+Systems+%F0%9F%94%A7;Always+learning%2C+always+growing+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Backend+Developer+%7C+NIT+Kurukshetra+%F0%9F%8F%9B%EF%B8%8F;Branch+Rank+1+%7C+CGPA+9.603+%2F+10+%F0%9F%8F%86;Open+Source+Contributor+%E2%86%92+AutoCannon+8.4k%2B+%E2%AD%90;Published+npm+CLI+Author+%F0%9F%93%A6+%7C+depsight;LeetCode+Knight+%7C+Top+2%25+Globally+%E2%9A%94%EF%B8%8F;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shuklashivam33221&color=blueviolet&style=for-the-badge&label=👁️+PROFILE+VIEWS)
-&nbsp;&nbsp;
+&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/shuklashivam33221?style=for-the-badge&color=blue&logo=github&label=Followers)
-&nbsp;&nbsp;
+&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/shuklashivam33221?style=for-the-badge&color=yellow&logo=github&label=Stars)
 
 </div>
@@ -18,52 +18,110 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Shivam {
-    String name        = "Shivam Shukla";
-    String role        = "Backend Developer";
-    String[] languages = {"C++", "Java", "JavaScript"};
-    String[] interests = {"DSA", "System Design", "Backend Engineering"};
-    String college     = "Aspiring SWE 🎯";
-    String achievement = "JPMC Advanced Software Engineering - Forage 🏆";
-    boolean openToWork = true;
-
-    String greet() {
-        return "Thanks for visiting my GitHub! Let's build something great 🚀";
-    }
-}
+```typescript
+const shivam = {
+  name        : "Shivam Shukla",
+  education   : "B.Tech IT — NIT Kurukshetra (2024–2028)",
+  cgpa        : "9.603 / 10 🏆 (Branch Rank #1)",
+  role        : "Backend Developer",
+  languages   : ["C", "C++", "Java", "Python", "JavaScript", "TypeScript"],
+  stack       : ["Node.js", "Express.js", "MongoDB", "Redis", "REST APIs"],
+  openSource  : ["AutoCannon (8.4k+ ⭐)", "depsight (npm CLI)"],
+  leetcode    : "Knight 🗡️ | Rating 1867 | Top 2% Globally (500+ solved)",
+  currentFocus: ["System Design", "High-Performance APIs", "Open Source"],
+  funFact     : "I reduce query time by 60% before breakfast ☕",
+};
 ```
 
-- 🔭 &nbsp; Currently mastering **Data Structures & Algorithms** in C++
-- 🌱 &nbsp; Exploring **System Design**, **Java Spring Boot**, and **REST APIs**
-- 💼 &nbsp; Completed **J.P. Morgan Chase Advanced Software Engineering** Forage Program
-- 🎯 &nbsp; Goal: Crack top product-based companies with clean, scalable code
-- 💬 &nbsp; Ask me about **Backend Dev**, **DSA**, **C++** or **Java**
-- ⚡ &nbsp; Fun fact: I debug with `cout <<` and I'm absolutely not ashamed 😄
+- 🏛️ &nbsp; **NIT Kurukshetra** — B.Tech Information Technology | **Branch Rank #1** | CGPA **9.603/10**
+- 🔭 &nbsp; Building production-grade backend systems with **Node.js, Express 5, Redis & MongoDB**
+- 🌍 &nbsp; Open Source contributor to **AutoCannon** (8.4k+ ⭐) — fixed a core TCP stream parsing bug
+- 📦 &nbsp; Published **depsight** on npm — a CLI tool for analyzing JS dependency trees
+- ⚔️ &nbsp; **LeetCode Knight** (Rating: 1867) — Solved **500+ problems**, ranked **669 / 33,966** globally
+- 💬 &nbsp; Ask me about **Backend Dev**, **System Design**, **DSA**, or **Open Source**
+- ⚡ &nbsp; Fun fact: I chose `Cache-Aside` over `Write-Through` and I'll explain exactly why 😄
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🌍 Open Source Contributions
+
+### 🔧 [AutoCannon](https://github.com/mcollina/autocannon) — Node.js HTTP Benchmarking Tool (8.4k+ ⭐)
+> **Stack:** Node.js · HTTP/1.1 · TCP Stream Parsing &nbsp;|&nbsp; 📅 May 2026
+
+- Identified and fixed a **metric-inflation bug** in core TCP stream parsing where HTTP `1xx` informational responses were incorrectly counted as completed requests
+- Restored accurate **latency and throughput measurements** for thousands of users relying on the tool for performance benchmarking
+
+### 📦 [depsight](https://www.npmjs.com/package/depsight) — Published npm CLI Package
+> **Stack:** TypeScript · Node.js · GitHub Actions (CI/CD) &nbsp;|&nbsp; 📅 May 2026
+
+- Designed and shipped a **production CLI tool** on npm for analyzing JavaScript dependency trees; built in TypeScript with **zero-config** setup
+- Engineered a **custom graph engine** using `O(1)` Map-based lookups with bidirectional edges — enabling reverse dependency tracing via **BFS in sub-second time**
+- Implemented **3 diagnostic commands** — `trace`, `duplicates`, `doctor` — validated against real-world dependency trees of Express and React ecosystems
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 [BlogPulse](https://github.com/shuklashivam33221) — High-Performance Blog API
+> **Stack:** Node.js · Express 5 · MongoDB · Redis (Upstash) · JWT · Helmet · Jest · Swagger &nbsp;|&nbsp; 📅 Feb 2026
+
+- Architected a **Cache-Aside caching layer** with TTL-based invalidation using Upstash Redis — chosen over Write-Through for independent cache/DB failure tolerance
+- Engineered **MongoDB Aggregation Pipelines** for multi-relational data joins — eliminated N+1 query patterns, reducing query execution time by **60%**
+- Hardened API security with **Helmet headers**, rate limiting, and input sanitization against NoSQL injection & parameter pollution
+- Built **Jest integration test suites** covering **20+ RESTful endpoints** with automated CI runs
+
+### 🔷 [Careers-NITKKR](https://github.com/shuklashivam33221) — Faculty Recruitment Portal
+> **Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Stripe · Zod &nbsp;|&nbsp; 📅 Mar 2026
+
+- Led backend in a **6-member team** — engineered a role-based portal with **3 permission tiers** using RBAC for granular route-level access control
+- Built a **Zod-based validation engine** spanning **22+ application sections** with composable schema design and TypeScript type inference
+- Implemented **idempotent Stripe webhook processing** with event deduplication — PDF receipts generated only post-confirmed payment, eliminating orphaned documents
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🎖️ Achievement | 📋 Details |
+|---|---|
+| 🥇 **Branch Rank #1** | Highest CGPA (9.603/10) among all IT students — NIT Kurukshetra |
+| ⚔️ **LeetCode Knight** | Rating: **1867** · Solved **500+** problems |
+| 🌍 **Top 2% Globally** | Ranked **669 / 33,966** in LeetCode Weekly Contest 498 |
+| 🌐 **Open Source** | Merged PR in **AutoCannon** (8.4k+ ⭐ production tool) |
+| 📦 **npm Author** | Published **depsight** CLI — live on npm registry |
+
+</div>
 
 ---
 
@@ -82,13 +140,13 @@ public class Shivam {
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=shuklashivam33221&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=shuklashivam33221&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -102,7 +160,7 @@ public class Shivam {
 
 <div align="center">
 
-[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuklashivam33221&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuklashivam33221&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -122,7 +180,7 @@ public class Shivam {
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
@@ -132,7 +190,7 @@ public class Shivam {
 
 ---
 
-## 😂 Random Dev Joke
+## 😄 Random Dev Joke
 
 <div align="center">
 
@@ -146,10 +204,11 @@ public class Shivam {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuklashivam33221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamshukla33221)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuklashivam33221)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklashivam33221@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shuklashivam33221)
+[![LeetCode](https://img.shields.io/badge/LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shuklashivam33221)
+[![npm](https://img.shields.io/badge/npm-depsight-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/depsight)
 
 </div>
 
