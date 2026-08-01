@@ -20,6 +20,7 @@
 
 - 🏛️ &nbsp; **NIT Kurukshetra** — B.Tech Information Technology | **Branch Rank #1** | CGPA **9.603 / 10**
 - 🌍 &nbsp; Open Source contributor → **AutoCannon** (8.4k+ ⭐) & published **depsight** on npm
+- 🌍 &nbsp; Amazon ML Summer School → Got selected for **Amazon ML Summer School**
 - ⚔️ &nbsp; **LeetCode Knight** — Rating **1867** | **500+ problems** | Top **2% globally**
 - 🔭 &nbsp; Currently exploring **System Design** and **High-Performance Systems**
 - ⚡ &nbsp; Fun fact: I reduced query time by **60%** using MongoDB Aggregation Pipelines 😄
